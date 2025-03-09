@@ -6,11 +6,4 @@
 {"sourceName":"影视仓接口三","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/c.txt"},
 {"sourceName":"影视仓接口四","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/d.txt"}
 ]}
-{
-      "name": "live",
-      "type": 0,
-      "playerType": 1,
-      "url": "https://6296.kstore.vip/25.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
+
